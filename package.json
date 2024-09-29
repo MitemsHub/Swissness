@@ -1,12 +1,11 @@
 {
+  "name": "hardhat-project",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "chai": "^4.5.0",
-    "ethereum-waffle": "^3.4.4"
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.1"
   },
   "dependencies": {
-    "@nomicfoundation/hardhat-ethers": "^3.0.8",
-    "ethers": "^6.13.2",
-    "hardhat": "^2.3.3"
+    "@openzeppelin/contracts": "^4.9.3",
+    "@swisstronik/utils": "^1.2.1"
   }
 }
